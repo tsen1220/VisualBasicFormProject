@@ -1,0 +1,12 @@
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+c:\users\tsen1\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb

@@ -1,0 +1,27 @@
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\student\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.cache
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.CoreCompileInputs.cache
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\tsen1\Desktop\HW6\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
